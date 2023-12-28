@@ -11,7 +11,7 @@ This project demonstrates the deployment of microservices using Docker Compose. 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/imadfaouzi/Dockerizing-Microservices-App
 cd your-repo
 ```
 
